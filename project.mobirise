@@ -30,7 +30,10 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -307,7 +310,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact Us",
-        "meta_descr": "How to reach us."
+        "meta_descr": "Contact Us"
       },
       "components": [
         {
@@ -837,7 +840,7 @@
     "clients.html": {
       "settings": {
         "title": "Clients",
-        "meta_descr": "Clients."
+        "meta_descr": "Ana Data Clients."
       },
       "components": [
         {
