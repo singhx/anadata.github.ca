@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "clients.html",
+    "currentPage": "contact.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12.1",
     "name": "Canadian-site",
@@ -30,10 +30,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -466,7 +463,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>"
           },
           "title": "DROP A LINE",
           "media1": {
