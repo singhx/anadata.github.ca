@@ -668,6 +668,18 @@ h6,
 .extProgressBar5 .progress-primary[value]::-ms-fill {
   color: #c0a375;
 }
+.theme-border {
+  border: 1px solid #c0a375;
+}
+#header1-20 .mbr-section-lead {
+  color: #28324e;
+}
+#msg-box5-21 H3 {
+  font-size: 25px;
+}
+#msg-box5-21 P {
+  text-align: left;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -735,22 +747,6 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #000000;
-}
-#extHeader11-19 SPAN {
-  color: #efefef;
-}
-#extHeader11-19 P {
-  color: #ffffff;
-}
-#header1-1c .mbr-section-lead {
-  color: #000000;
-}
-#header1-1c .mbr-section-title {
-  color: #000000;
-}
-#msg-box3-1e .mbr-section-title,
-#msg-box3-1e p {
-  color: #000;
 }
 #contacts1-1q P {
   color: #000000;
@@ -942,6 +938,9 @@ h6,
 #msg-box3-18 .mbr-section-title,
 #msg-box3-18 p {
   color: #000;
+}
+#msg-box3-18 .lead P {
+  text-align: left;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -1385,34 +1384,8 @@ h6,
 #msg-box8-0 .lead P {
   color: #28324e;
 }
-#header3-17 .mbr-section-title,
-#header3-17 .mbr-section-subtitle {
-  text-align: center;
-}
-#extFeatures12-15 .card-number {
-  color: #c0a375;
-}
-#extFeatures12-15 .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-15 .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-16 .card-number {
-  color: #c0a375;
-}
-#extFeatures12-16 .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-16 .wraper {
-  border-color: undefined !important;
-}
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1 .mbr-section-title,
-#header3-1 .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons2-1p .mbr-section-title,
