@@ -53,7 +53,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#000000"
+              "color": "#28324e"
             }
           },
           "_anchor": "header1-20",
@@ -69,7 +69,7 @@
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": false,
@@ -301,7 +301,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Query</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"https://medium.com/@adcc\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
@@ -600,7 +600,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Query</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"https://medium.com/@adcc\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
@@ -647,7 +647,7 @@
             "showButton": false
           },
           "title": "TRANSFORMATION <br>IN ACTION",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In Ana-Data's over twenty-year history, we have earned the reputation for&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">results and professionalism from both our clients and consultants. We have</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">been consistently recognized as a leader in providing staffing and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">consulting services for complex IT challenges.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ADC founders and principals are expert software professionals who recognize&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">the opportunity to leverage cost-effective, advanced technologies to solve&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">business problems which conventional systems fall short of.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our experience, knowledge, quality processes and dedication to customer&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">satisfaction are key qualified components in making ADC, choice for&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">professional services support.</span></p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In Ana-Data's over twenty-year history, we have earned the reputation for</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">results and professionalism from both our clients and consultants. We have</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">been consistently recognized as a leader in providing staffing and</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">consulting services for complex IT challenges.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ADC founders and principals are expert software professionals who recognize</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">the opportunity to leverage cost-effective, advanced technologies to solve&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">business problems which conventional systems fall short of.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our experience, knowledge, quality processes and dedication to customer</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">satisfaction are key qualified components in making ADC, choice for&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">professional services support.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -663,7 +663,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/cpp-390x99.png",
+                    "src": "@PROJECT_PATH@/assets/images/td-small-350x150-350x150.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -764,23 +764,10 @@
                 }
               },
               {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/jpmorgan-logo-762x203-20.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/td-small-350x150-350x150.png",
+                    "src": "@PROJECT_PATH@/assets/images/jpmorgan-logo-762x203-20.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -972,7 +959,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Query</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"https://medium.com/@adcc\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
@@ -1142,7 +1129,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Founded in 1993, Ana-Data is a technology consulting company specializing in building software applications that help our clients meet their strategic and operational needs. Based on 20 years of building custom software applications and user interface design, Ana-Data introduces Clear Analytics, the enterprise-strength self-service Business Intelligence solution.</p><p><br></p><p>Apart from being recruiting and staffing specialists our domain expertise encompasses the entire software development cycle, from business requirements to user interface design, back-end engineering, deployment, and post launch support. Whether you are looking to build a Rich Internet Application to drive your marketing initiatives or a custom line of business applications to streamline your internal operations, our talented team can get you there.</p><p><br></p><p>Our clients operate at all levels of enterprise, from Fortune 500 companies to startups. We approach each client with a firm commitment to return on investment and a long-term partnership built on integrity and trust.</p>"
+          "text": "<p>Founded in 1993, Ana-Data is a technology consulting company specializing in building software applications that help our clients meet their strategic and operational needs. Based on 20 years of building custom software applications and user interface design, Ana-Data introduces Clear Analytics, the enterprise-strength self-service Business Intelligence solution.</p><p><br></p><p>Our domain expertise encompasses the entire software development cycle, from business requirements to user interface design, back-end engineering, deployment, and post launch support. Whether you are looking to build a Rich Internet Application to drive your marketing initiatives or a custom line of business applications to streamline your internal operations, our talented team can get you there.</p><p><br></p><p>Our clients operate at all levels of enterprise, from Fortune 500 companies to startups. We approach each client with a firm commitment to return on investment and a long-term partnership built on integrity and trust.</p>"
         },
         {
           "_styles": {
@@ -1267,7 +1254,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Query</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"https://medium.com/@adcc\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
@@ -1981,7 +1968,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Products</strong><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Query</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Entry</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Reconcilation</a><br><a href=\"http://anadata.com/products.html\" class=\"text-black\">Clear Price Master</a>",
+          "text1": "<strong>Products</strong><br>Clear Analytics<br>Clear Query<br>Clear Entry<br>Clear Reconcilation<br>Clear Price Master",
           "text2": "<strong>Industries<br></strong><br>Financial Services<br>Telecommunications<br>Insurance<br>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Community</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><a href=\"https://medium.com/@adcc\" class=\"text-black\">Blog</a><br>News<br>Partners<br><a href=\"about.html\" class=\"text-black\">Company</a><br><a href=\"contact.html\" class=\"text-black\">Contact</a>"
         }
